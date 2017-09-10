@@ -9,10 +9,10 @@ to name a Few this is just A software i made for people to have 1 click access t
 
 
 # Currently supported Natively by the Software and Tested:
-1 NetDiscover
-2 Foremost
-3 Searchsploit
-4 dnsenum 
+1)NetDiscover,
+2)Foremost,
+3)Searchsploit,
+4)dnsenum 
 
 
 # How to use the Software? 
