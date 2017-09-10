@@ -6,7 +6,7 @@ import sys
 print("Welcome to All-rounder Hacking suit! made by DedSec")
 print("To use this Program select any Options,Please remember use commands in 1 line with no spaces")
 print("Feel Free to modify it but me giving some credit under GNU license\n\n")
-#VARIABLES
+#VARIABLES Settings
 dnsx = "1)Dnsenum"
 forex = "2)Foremost"
 searchx = "3)Searchsploit"
@@ -15,7 +15,7 @@ update="5)Install or update"
 exit = "6)Exit\n"
 
 
-while True:
+while True: #loop Settings
     print("Please choose your Options:\n")
     print(dnsx)
     print(forex)
@@ -24,7 +24,7 @@ while True:
     print(update)
     print(exit)
 
-    s1 = input('Whats your Selction?:')
+    s1 = input('Whats your Selction?:') # final input commands for connecting to main Softwares in Kali linux or linux in general.
 
 
 
@@ -60,3 +60,5 @@ while True:
 
     if s1 == 0 :
         print("Select again! something went wrong!")
+        
+        #THIS IS FINAL VERSION feel free to Add more software support for other Kali tools
