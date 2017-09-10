@@ -12,7 +12,7 @@ to name a Few this is just A software i made for people to have 1 click access t
 1)NetDiscover,
 2)Foremost,
 3)Searchsploit,
-4)dnsenum 
+4)Dnsenum 
 
 
 # How to use the Software? 
