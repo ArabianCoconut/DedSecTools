@@ -45,7 +45,7 @@ while True: #loop Settings
         subprocess.call(["netdiscover",(net)])
 
     if s1 == 5:
-            up=raw_input("Do you wanna 1)update or 2)install?:")
+            up=raw_input("Do you want to 1:Update or 2:Install?:")
     if up == '1' or 'update':
         subprocess.call(["sudo","apt-get","update"])
 
