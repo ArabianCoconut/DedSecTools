@@ -24,10 +24,10 @@ while True: #loop Settings
     print(update)
     print(exit)
 
-    s1 = input('Whats your Selction?:') # final input commands for connecting to main Softwares in Kali linux or linux in general.
+    s1 = input('Whats your Selction?:') # input commands for connecting to main tools in Linux.
 
 
-
+    # From here the Tools are connected and commands are piped to the main Tool.
     if s1 == 1:
         dns = raw_input("Input Dnsenum Commands directly,Eg -h:")
         subprocess.call(["dnsenum",(dns)])
