@@ -5,7 +5,7 @@ This tool is made for simple easy to use File hash checking and nothing more
 
 # How to use:
 
-when Asked for Filename please input the File  full path C:\blah\blah\blah\hi.txt
+when Asked for File Path,Please input the File  full path C:\blah\blah\blah\hi.txt
 
 # TroubleShooting:
 
