@@ -13,4 +13,4 @@ I have left some notes in the Source code for you to choose which Hashing Algori
 feel free to open issues and pull request if you find some improvements
 
 
-# thank you and enjoy!
+# Thank you and enjoy!
