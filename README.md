@@ -22,8 +22,7 @@ simply excute  ./allrounder.py  and follow the instructions given
 
 # TroubleShooting
 
- # Q) Software is not accepting commands  even tho the command is correct and giving out random ERROR's !! ??
- A) Yes, because the software only accepts it with no SPACES Eg: instead of -i wlan0  Type -iwlan0 (no space)
+use whole commands without spaces.
 
 
 
