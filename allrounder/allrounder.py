@@ -5,7 +5,7 @@ import sys
 
 print("Welcome to All-rounder Hacking suit! made by DedSec")
 print("To use this Program select any Options,Please remember use commands in 1 line with no spaces")
-print("Feel Free to modify it but me giving some credit under GNU license\n\n")
+print("Feel Free to modify it by me giving some credit under GNU license\n\n")
 #VARIABLES Settings
 dnsx = "1)Dnsenum"
 forex = "2)Foremost"
